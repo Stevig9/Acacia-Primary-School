@@ -229,7 +229,7 @@ h3 {
   display: block;
   min-height: 100vh;
   background-image: linear-gradient(rgba(4, 9, 30, 0.3), rgba(4, 9, 30, 0.3)),
-    url(../img/_main/school_banner.jpg);
+    url(img/_main/school_banner.jpg);
   background-position: center bottom;
   background-size: cover;
   position: relative;
